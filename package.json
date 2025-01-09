@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "aos": "^2.3.4"
+    "@react-google-maps/api": "^2.20.5",
+    "aos": "^2.3.4",
+    "framer-motion": "^11.16.1",
+    "leaflet": "^1.9.4",
+    "react-leaflet": "^5.0.0"
   }
 }
